@@ -471,7 +471,7 @@ ros2 topic echo /pct_path --once
 
 ---
 
-## 18. 当前部署结论
+## 17. 当前部署结论
 
 当前设备上，PCT_planner 的 ROS2 Humble 版本已经完成部署验证：
 
