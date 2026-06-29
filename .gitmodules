@@ -1,0 +1,12 @@
+[submodule "src/cJSON-1.7.19"]
+	path = src/cJSON-1.7.19
+	url = https://github.com/DaveGamble/cJSON.git
+[submodule "src/gtsam-4.2"]
+	path = src/gtsam-4.2
+	url = https://github.com/borglab/gtsam.git
+[submodule "src/osqp-1.0.0"]
+	path = src/osqp-1.0.0
+	url = https://github.com/osqp/osqp.git
+[submodule "src/pcl-1.15.1"]
+	path = src/pcl-1.15.1
+	url = https://github.com/PointCloudLibrary/pcl.git
